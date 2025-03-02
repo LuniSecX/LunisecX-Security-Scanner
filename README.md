@@ -56,7 +56,7 @@ Ağ taraması, belirli bir IP aralığındaki cihazları tespit etmek için kull
     python3 lunisecx.py --manual
 
 6. **İçerik:**
-   ```bash
+ 
     ### İçeriği Açıklamalar:
 
    - **Proje Tanıtımı ve Özellikler**: Projenin ne amaçla kullanıldığını ve sunduğu başlıca özellikleri açıklıyor.
