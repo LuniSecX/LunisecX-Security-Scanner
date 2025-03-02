@@ -59,12 +59,12 @@ Ağ taraması, belirli bir IP aralığındaki cihazları tespit etmek için kull
    ```bash
     ### İçeriği Açıklamalar:
 
-- **Proje Tanıtımı ve Özellikler**: Projenin ne amaçla kullanıldığını ve sunduğu başlıca özellikleri açıklıyor.
-- **Gereksinimler**: Projeyi çalıştırabilmek için hangi Python kütüphanelerine ihtiyacınız olduğunu belirtiyor.
-- **Kurulum**: Projenin nasıl kurulacağı ve çalıştırılacağı hakkında detaylı bilgiler veriyor.
-- **Kullanım**: Aracın nasıl kullanılacağına dair örnek komutlar içeriyor.
-- **Lisans**: Projenin lisans bilgilerini içeriyor. Burada MIT lisansını kullandık, fakat bunu değiştirebilirsiniz.
-- **Katkı**: Katkı sağlamak isteyen kullanıcılar için GitHub üzerinden nasıl katkı yapabileceklerini anlatıyor.
+   - **Proje Tanıtımı ve Özellikler**: Projenin ne amaçla kullanıldığını ve sunduğu başlıca özellikleri açıklıyor.
+   - **Gereksinimler**: Projeyi çalıştırabilmek için hangi Python kütüphanelerine ihtiyacınız olduğunu belirtiyor.
+   - **Kurulum**: Projenin nasıl kurulacağı ve çalıştırılacağı hakkında detaylı bilgiler veriyor.
+   - **Kullanım**: Aracın nasıl kullanılacağına dair örnek komutlar içeriyor.
+   - **Lisans**: Projenin lisans bilgilerini içeriyor. Burada MIT lisansını kullandık, fakat bunu değiştirebilirsiniz.
+   - **Katkı**: Katkı sağlamak isteyen kullanıcılar için GitHub üzerinden nasıl katkı yapabileceklerini anlatıyor.
    
  6. **Lisans:**
    ```bash
