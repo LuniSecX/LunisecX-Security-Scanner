@@ -20,3 +20,17 @@
 1. **Gerekli kütüphaneleri yükleyin:**
    ```bash
    pip install scapy requests mitmproxy
+
+2. **LunisecX'i indirin::**
+   ```bash
+   git clone https://github.com/kullanici_adi/lunisecx.git
+
+3. **Aracı çalıştırın::**
+   ```bash
+   Ağ taraması: python lunisecx.py -n <TARGET_NETWORK>
+   Web güvenlik taraması: python lunisecx.py -w <TARGET_URL>
+   Trafik analizi: python lunisecx.py -t
+   Yardım menüsü: python lunisecx.py --manual
+
+Lisans
+MIT Lisansı altında lisanslanmıştır.
