@@ -31,11 +31,8 @@
     git clone https://github.com/kullanici_adi/lunisecx.git
 
  3. **Aracı Çalıştırın:**
-    
-    Ağ taraması yapmak için:
    ```bash
-    python lunisecx.py -n <TARGET_NETWORK>
-
-Web güvenlik taraması yapmak için:
-python lunisecx.py -w <TARGET_URL>
-
+    python3 lunisecx.py -n <TARGET_NETWORK>
+    python3 lunisecx.py -w <TARGET_URL>
+    python3 lunisecx.py -t
+    python3 lunisecx.py --manual
