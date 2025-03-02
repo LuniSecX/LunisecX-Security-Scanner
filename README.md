@@ -28,7 +28,7 @@
 2. **LunisecX aracını indirin:**
 
    ```bash
-    git clone https://github.com/kullanici_adi/lunisecx.git
+    git clone https://github.com/LuniSecX/LunisecX-Security-Scanner.git
 
 3. **Trafik Analizi Taraması Kullanım:**
     Trafik Analizi (-t komutu)
